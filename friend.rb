@@ -1,5 +1,5 @@
 class Friend
    def greet(name = '')
-     return "Hello #{name}!"
+     p "Hello #{name}!"
    end
 end
